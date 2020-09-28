@@ -1,4 +1,8 @@
 # Zoom Clone Demonstration
+
+![20200928_215409 1](https://user-images.githubusercontent.com/62868878/94460013-bcac4380-01d5-11eb-9564-0d9cb8f03963.gif)
+
+
 # First Allow This and you will Redirect to the Next Page 
 ![image](https://user-images.githubusercontent.com/62868878/94454246-41479380-01cf-11eb-9030-447eb6752824.png)
 # Home page
